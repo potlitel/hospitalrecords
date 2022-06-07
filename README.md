@@ -32,3 +32,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Links
+
+https://strapi.io/blog/how-to-build-a-hospital-record-app-with-next-js-and-strapi?utm_campaign=Strapi%20Blog&utm_content=205670705&utm_medium=social&utm_source=twitter&hss_channel=tw-3832252517
+https://github.com/Victory-ET/Strapi-Hospital-Records-App/blob/main/pages/index.js
